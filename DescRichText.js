@@ -41,7 +41,7 @@ export default class DescRichText extends Component {
     var that =  this.$scope
     if (self.state.desc) {
       console.log('有内容')
-      var  article = self.state.desc.item.descriptions
+      var  article = self.state.desc
       WxParse.wxParse('article', 'html', article, that, 0)
     }
     else {
