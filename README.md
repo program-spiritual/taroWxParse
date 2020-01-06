@@ -51,3 +51,14 @@ constructor(props) {
   componentDidUpdate(){}
   
   ```
+  
+- 样式修改
+    
+    阁下可以在本组件的wxparse目录下找到样式文件，然后修改该文件的相关内容即可
+    
+- **pull request**
+  
+    如果阁下已经 `fork` 并改进了组件，请提交至您的 git 项目，并提交 `pull request `
+- 问题反馈   
+    如果阁下遇到了一些小问题，亲直接提交至 `issues` , 我每天都会检查 `gitHub` 的 `issues`
+ 
